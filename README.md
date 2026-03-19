@@ -1,5 +1,7 @@
 # A Spatial Database of Historical Westside Fire
 
+[![DOI](https://zenodo.org/badge/1186680613.svg)](https://doi.org/10.5281/zenodo.19120166)
+
 This repository contains datasets for "A spatial database of historical fire in westside forests of the Pacific Northwest" (in press) by Zuspan et. al., 2026 in [GeoPackage](/gpkg) and [Shapefile](/shp) formats.
 
 See the publication (available soon) for details.
